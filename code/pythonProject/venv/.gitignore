@@ -1,0 +1,6 @@
+a = input()
+a.split('')
+if a[0] == 'а':
+    print("ДА")
+else:
+    print("НЕТ")
